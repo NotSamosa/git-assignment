@@ -1,2 +1,3 @@
 Name: Monu Chaudhary
 City: Bulandshahr
+Skills: GO, Git
